@@ -1,7 +1,8 @@
 .media {
     display: flex;
     flex-direction: column;
-    width: 282px;
+    width: 270px;
+    height: 512px;
     padding: 5px;
     margin: 5px 0;
     background-color: #282c34;
